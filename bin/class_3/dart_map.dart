@@ -19,7 +19,6 @@ main(){
     'skill': 'Dart,Flutter,php,Laravel',
     'experience': '7 years'
   };
-
   print(person == person2);
 
   print(person);
