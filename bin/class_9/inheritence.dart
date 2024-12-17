@@ -51,8 +51,6 @@ main(){
   Rafi.incomeSource();
 
 
-
-
   print("i have ${Rafi.bike}");
 
   Rafi.MySelf();

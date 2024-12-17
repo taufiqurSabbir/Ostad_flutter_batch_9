@@ -1,7 +1,6 @@
 abstract class Animal{
   String name;
   static var test = "this is animal";
-
   Animal(this.name);
 
   void eat(){
